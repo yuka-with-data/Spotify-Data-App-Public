@@ -33,6 +33,8 @@ I was inspired to create this Spotify app by the discovery of talented musicians
 
 - Explicitness Pie Chart: Explore the explicit content landscape among top tracks using the explicitness pie chart. This chart segments songs into explicit and non-explicit categories, providing a visual breakdown of content nature. When your selected track's explicit status matches one of the categories, that slice is subtly exploded outwards to draw attention. This feature not only highlights the explicitness status of your track but also offers insights into the balance between explicit and clean content in popular music, offering a unique perspective on content trends in the industry.
 
+- Genres Word Cloud: Discover the diversity of musical genres represented among the top tracks with a visually striking word cloud. This feature aggregates genre data from the selected playlist, presenting it in a word cloud where the size of each genre name correlates with its frequency. This allows users to quickly grasp the predominant music styles and genre influences of their chosen track. The word cloud offers a unique, and visually engages overview of the musical genre landscape. 
+
 - Popularity Gauge Chart: Gain insights into the current popularity score of the selected track through a dynamic gauge chart. The chart visually represents the popularity score on a scale from 0 to 100, allowing users to assess the track's popularity relative to other songs. This feature provides a quick and engaging way to understand the current standing of the chosen track.
 
 - Similar Track Recommendations: Discover tracks similar to your selection with Spotify's recommendation feature, which analyzes the musical qualities of your chosen track to suggest five others with a similar vibe or sound. This list is purely based on the track's characteristics, ensuring a focused exploration of new music.
@@ -65,8 +67,9 @@ Attributes included:
 12. Tempo: Denotes the speed or pace of a track, measured in beats per minute (BPM).
 13. Loudness: Measures the overall average loudness of a track in decibels (dB). Values typically range between -60 dB and 0 dB. Higher values indicate louder tracks. 
 14. Popularity: A numerical score indicating the popularity of a track, with higher values signifying greater popularity.
-15. Duration (ms): The duration of the track in milliseconds.
-16. ID: A unique identifier assigned to each track, facilitating easy retrieval and reference.
+15. genres: A compilaton of music genres associated with the track's artist, reflecting the artist's overall music style and influences. Genres are derived from the artist's body of work rather than individual tracks or albums, providing insight into the broader stylistic contexts the artist operates within. 
+16. Duration (ms): The duration of the track in milliseconds.
+17. ID: A unique identifier assigned to each track, facilitating easy retrieval and reference.
 
 ## Note:
 This application is currently under active development and is not ready for deployment at this stage. New features and functionalities are being actively explored and integrated to provide a more comprehensive music analysis and recommendation platform.
