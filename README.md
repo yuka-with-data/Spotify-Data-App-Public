@@ -51,7 +51,7 @@ From this foundational work, the project has expanded into a multi-page applicat
 - Similar Track Recommendations: Discover tracks similar to your selection with Spotify's recommendation feature, which analyzes the musical qualities of your chosen track to suggest five others with a similar vibe or sound. This list is purely based on the track's characteristics, ensuring a focused exploration of new music.
 
 ## Usage:
-To explore rhythmGalax, simply visit the app. Choose an analysis from the sidebar menu and let your musical data journey begin.
+Choose an analysis from the sidebar menu and let your musical data journey begin.
 
 ## Spotify's Official Hit Charts
 Here are Spotify's official hit charts currently available for comparison, with the list continuously expanding.
