@@ -1,4 +1,6 @@
-# Spotify Track Data Exploration & Visualization App
+# [Deprecated] Spotify Track Data Exploration & Visualization App
+
+Note: This project is deprecated due to changes in the behavior of the Spotify Web API.
 
 This application offers a dynamic and engaging way to explore and analyze the musical qualities of Spotify's latest hit chart playlists, alongside a comparison with your personal favorite tracks. Powered by Streamlit, this tool not only showcases data visualizations of key track attributes but also provides insightful analytics to deepen your understanding of current musical trends. Whether you're a music enthusiast or an industry analyst, this application brings the world of Spotify's streaming data to your fingertips, offering a unique perspective on what makes a song popular in today's ever-evolving music landscape.
 
